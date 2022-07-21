@@ -1,0 +1,26 @@
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\appsettings.Development.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\appsettings.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.staticwebassets.runtime.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.exe
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.deps.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.runtimeconfig.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.dll
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\ref\Ace Car Rental.dll
+D:\MY new project\Ace Car Rental\Ace Car Rental\bin\Debug\net6.0\Ace Car Rental.pdb
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.AssemblyInfoInputs.cache
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.AssemblyInfo.cs
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.csproj.CoreCompileInputs.cache
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.MvcApplicationPartsAssemblyInfo.cache
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.RazorAssemblyInfo.cache
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.RazorAssemblyInfo.cs
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\staticwebassets.build.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\staticwebassets.development.json
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\scopedcss\bundle\Ace Car Rental.styles.css
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\scopedcss\projectbundle\Ace Car Rental.bundle.scp.css
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.dll
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\ref\Ace Car Rental.dll
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.pdb
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.genruntimeconfig.cache
+D:\MY new project\Ace Car Rental\Ace Car Rental\obj\Debug\net6.0\Ace Car Rental.csproj.AssemblyReference.cache

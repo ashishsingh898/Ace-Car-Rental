@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ace_Car_Rental
+build_property.RootNamespace = Ace_Car_Rental
+build_property.ProjectDir = D:\MY new project\Ace Car Rental\Ace Car Rental\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MY new project\Ace Car Rental\Ace Car Rental
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MY new project/Ace Car Rental/Ace Car Rental/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k422qeexsu
